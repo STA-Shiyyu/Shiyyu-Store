@@ -5,7 +5,7 @@
 これはストアとプラグインのアップデートを行う3DS用アプリケーションです。
 
 ## 導入
-① Shiyyu-Store.cia をSDカード/cias に貼り付けます。
+① Shiyyu-Store.cia をSDカード/cias に貼り付けます。  
 ② SDカードを3DSに戻し起動、FBI Open source title manager を起動しインストールしてください。
 
 ## アップデート
